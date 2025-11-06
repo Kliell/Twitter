@@ -1,15 +1,3 @@
-/* ALL CONFIGS */
-@font-face {
-    font-family: HelveticaNeue;
-    src: url(../../fonts/HelveticaNeue/HelveticaNeueLTPro-55Roman.otf);
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: HelveticaNeue;
-    src: url(../../fonts/HelveticaNeue/HelveticaNeueLTPro-75Bold.otf);
-    font-weight: bold;
-}
 
 *{
     margin: 0%;
